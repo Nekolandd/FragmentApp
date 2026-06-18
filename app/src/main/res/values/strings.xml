@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+
+    <string-array name="modo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+
+    <string-array name="paises">
+        <item>Costa Rica</item>
+        <item>Perú</item>
+        <item>Colombia</item>
+        <item>Brasil</item>
+        <item>Ecuador</item>
+        <item>Chile</item>
+    </string-array>
+</resources>
